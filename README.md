@@ -1,5 +1,5 @@
 # Be The Hero
-App desenvolvido durante a Semana Omnistack 11, com o objetivo de conetar ONG's a pessoas que possuem inteiresse em ajudar. 🐶
+App desenvolvido durante a Semana Omnistack 11, com o objetivo de conetar ONG's à pessoas que possuem interesse em ajudar. 🐶
 ## Tecnologias
 - [Node](https://nodejs.org/)
 - [Express](https://expressjs.com/)
